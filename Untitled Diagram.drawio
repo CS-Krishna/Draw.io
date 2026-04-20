@@ -50,11 +50,44 @@
         <mxCell id="pNaWOvjsAA36i-kSFZgz-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#00CC00);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Media Artifact&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Normaliser&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="220" x="1170" y="560" as="geometry" />
         </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-7" edge="1" parent="1" source="pNaWOvjsAA36i-kSFZgz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0Z2wlOsZNRCu9zYeh4ql-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pNaWOvjsAA36i-kSFZgz-22" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#FFF4C3);rounded=1;align=left;spacingBottom=195;spacingLeft=522;fontSize=17;labelBackgroundColor=none;opacity=60;strokeColor=#82b366;fontColor=light-dark(#000000,#FFC570);" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Layer 3 - Pipline Controller&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="260" width="1310" x="120" y="810" as="geometry" />
         </mxCell>
-        <mxCell id="pNaWOvjsAA36i-kSFZgz-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#00CC00);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Location&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Normaliser&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="pNaWOvjsAA36i-kSFZgz-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#FFC570);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Case Registry&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;amp; Multi-Case&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Isolation&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="220" x="840" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#FFC570);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Flask Route&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Controller (app.py)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="510" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#FFC570);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Evidence Ingest&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;amp; Hash (SHA256)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="180" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#FFC570);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Progress&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Status &amp;amp; Overlay&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="1170" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);rounded=1;align=left;spacingBottom=195;spacingLeft=522;fontSize=17;labelBackgroundColor=none;opacity=40;strokeColor=#b85450;gradientColor=none;fontColor=light-dark(#000000,#FF3333);" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Layer 4 - Analysis &amp;amp; Reporting&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="1310" x="120" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#FF3333);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Evidence Ingest&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;&amp;amp; Hash (SHA256)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="180" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#FF3333);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;YOLOv8s&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Weapons&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Detection&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="510" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#FF3333);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;Web Interface&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;(Flask / HTML)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="840" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;labelBorderColor=default;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=#666666;fontColor=light-dark(#000000,#FF3333);" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;HTML Report Generator&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="220" x="1170" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#990000);fontSize=20;opacity=40;fontColor=light-dark(#000000,#FF3333);" value="&lt;b&gt;HTML Report + SHA256 Hash&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="290" x="1135" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="0Z2wlOsZNRCu9zYeh4ql-14" edge="1" parent="1" source="0Z2wlOsZNRCu9zYeh4ql-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.885;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="0Z2wlOsZNRCu9zYeh4ql-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
